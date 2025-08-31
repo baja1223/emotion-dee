@@ -10,3 +10,5 @@ let RunSentimentAnalysis = ()=>{
     xhttp.open("GET", "emotionDetector?textToAnalyze"+"="+textToAnalyze, true);
     xhttp.send();
 }
+
+// This is a random comment
